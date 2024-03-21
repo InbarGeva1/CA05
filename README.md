@@ -1,10 +1,10 @@
 # CA05
 
 ## **Overview**
-This project uses a k-Nearest Neighbors (k-NN) based recommender system to suggest movies similar to a given query. The idea is to replicate the fundamental mechanisms behind recommender systems used by platforms like Netflix and IMDb on a smaller scale. Given a movie, the system finds and recommends the top 5 movies similar to it based on genre classifications and IMDb ratings.
+This assignment uses a k-Nearest Neighbors (k-NN) based recommender system to suggest movies similar to a given query. The idea is to replicate the fundamental mechanisms behind recommender systems used by platforms like Netflix and IMDb on a smaller scale. Given a movie, the system finds and recommends the top 5 movies similar to it based on genre classifications and IMDb ratings.
 
 ## **Data Source**
-The recommender uses a subset of movie data extracted from the UCI Machine Learning Repository's IMDb dataset. This dataset includes thirty movies, across seven genres, alongside their IMDb ratings.
+The system uses a subset of movie data extracted from the UCI Machine Learning Repository's IMDb dataset. This dataset includes thirty movies, across seven genres, alongside their IMDb ratings.
 
 Data File: movies_recommendation_data.csv
 Source URL:  https://github.com/ArinB/MSBA-CA-
