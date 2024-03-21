@@ -7,8 +7,7 @@ This assignment uses a k-Nearest Neighbors (k-NN) based recommender system to su
 The system uses a subset of movie data extracted from the UCI Machine Learning Repository's IMDb dataset. This dataset includes thirty movies, across seven genres, alongside their IMDb ratings.
 
 Data File: movies_recommendation_data.csv
-Source URL:  https://github.com/ArinB/MSBA-CA-
-Data/raw/main/CA05/movies_recommendation_data.csv
+Source URL:  https://github.com/ArinB/MSBA-CA-Data/raw/main/CA05/movies_recommendation_data.csv
 
 ## **Features**
 
@@ -23,7 +22,7 @@ This project is implemented in Python, utilizing libraries such as
 -  Matplotlib for visualization, 
 -  sklearn for the k-NN algorithm.
 
-##To install the necessary libraries, run:
+To install the necessary libraries, run:
 
 - pip install 
 - pandas numpy 
